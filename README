@@ -1,0 +1,9 @@
+Buscador de peliculas IMDb.
+Proyecto elaborado con react hooks, redux con las nuevas implementaciones de hooks, Redux Saga como middleware, react router dom entre otras
+Elaborado con motivos educativos.
+
+* Redux - https://github.com/reduxjs/redux
+* Redux Saga - https://github.com/redux-saga/redux-saga
+* React Redux - https://github.com/reduxjs/react-redux 
+* React Router - https://github.com/ReactTraining/react-router
+* Axios - https://github.com/axios/axios
